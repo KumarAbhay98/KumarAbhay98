@@ -12,8 +12,8 @@
 
 <h2> About Me <img src = "https://www.bing.com/th/id/OGC.18867b0c57bb4aadb3b2f5eaad8e4ff3?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f9a%2fe0%2f0f%2f9ae00fe40fa78aac4bf8dea4e8896189.gif&ehk=0YFluzF4TqcOf%2bisQjb5RKwDxShjNgg0bblyJyZRDUQ%3d" width = 80px height='50px'></h2>
 
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
+
+
 
 <h2>Hey! 👋</h2>
 
@@ -24,7 +24,7 @@ I'm Abhay Kumar!
 
 <h2>💻 I'm Currently workng on</h2>
 
-- My Own website handling issues realted to a student's life.
+- My Own website handling issues related to student's life.
 - Software Engineering
 - Deep diving into Front-end development, UI/UX designs and looking forward to learn complete webdevelopment technologies and tools.
 - Applying my skills on real world projects.
@@ -57,7 +57,7 @@ I'm Abhay Kumar!
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'linkedin.com/in/abhay-kumar-6586b220a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/KumarAbhay98'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href = 'linkedin.com/in/abhay-kumar-6586b220a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/Instagram-in-alt.svg"/></a> 
+
 
 
 
@@ -70,6 +70,6 @@ I'm Abhay Kumar!
 <footer align='center'>HAPPY CODING.</a> </footer>
 
 <!---
-Dhruv-0001/Dhruv-0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+KumarAbhay98/KumarAbhay98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
