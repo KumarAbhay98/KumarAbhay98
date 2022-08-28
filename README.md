@@ -26,18 +26,23 @@ I'm Abhay Kumar!
 
 - My Own website handling issues realted to a student's life.
 - Software Engineering
+- Deep diving into Front-end development, UI/UX designs and looking forward to learn complete webdevelopment technologies and tools.
+- Applying my skills on real world projects.
+
+<hr>
+- 👯 I’m looking to collaborate on Projects, Tech Articles.
+
+- 💬 Talk to me about Front-end development, UI/UX, Dbms. 
 
 
 
 <img width="55%" align="right" alt="Github" src="https://www.bing.com/th/id/OGC.6b9cadb5ed2c5bed40b91634eed9231a?pid=1.7&rurl=https%3a%2f%2fblog-c7ff.kxcdn.com%2fblog%2fwp-content%2fuploads%2f2019%2f05%2fIronMan.gif&ehk=4vynVFcJP0I6n8vKEHFWekqVGLxB%2f9uuNk%2bVIhDkLYY%3d" />
 
-- 🌱 I’m currently deep diving into Front-end development, UI/UX designs and looking forward to learn complete webdevelopment technologies and tools.
 
-- 🔭 I’m currently working on Applying my skills on real world projects.
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles.
 
-- 💬 Talk to me about Front-end development, UI/UX, Dbms. 
+
+
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/Dhruv-0001?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
@@ -51,7 +56,8 @@ I'm Abhay Kumar!
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'linkedin.com/in/abhay-kumar-6586b220a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/Dhruv-0001'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://github.com/KumarAbhay98'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'linkedin.com/in/abhay-kumar-6586b220a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/Instagram-in-alt.svg"/></a> 
 
 
 
