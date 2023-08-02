@@ -1,5 +1,5 @@
 <h1 align="center" style="width:100;%">
- <img src="https://i.ibb.co/jvGxFjq/Screenshot-2023-08-02-134306.png" alt="image"/>
+ <img src="https://www.bing.com/th/id/OGC.81178b47a8598f0c81c4799f2cdd4057?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f2131993%2fscreenshots%2f4948736%2fthoughtworks-gif_dribbble.gif&ehk=NNfOMQ6dfiA3eWWZAhI73QT3tX1lMjqFSSH4bXYrTAo%3d" alt="image"/>
 </h1>
 <h1 align="center">Hola! 👋, I'm Abhay</h1>
 <h3 align="center">A passionate frontend developer diving into backend with django.</h3>
