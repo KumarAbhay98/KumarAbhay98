@@ -1,5 +1,9 @@
 <h1 align="center" style="width:100%;height:100px">
- <video src="https://streamable.com/islg44" alt="image"/>
+ <video width="320" height="240" controls>
+<source src="https://streamable.com/islg44" type="video/mp4">
+Your browser does not support the video tag.
+ </video>
+ <video src="" alt="image"/>
 </h1>
 <h1 align="center">Hola! 👋, I'm Abhay</h1>
 <h3 align="center">A passionate frontend developer diving into backend with django.</h3>
