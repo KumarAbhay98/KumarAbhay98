@@ -1,9 +1,5 @@
-<h1 align="center" style="width:100;%">
+
 https://github.com/KumarAbhay98/KumarAbhay98/assets/92244303/154b4e11-3f78-4f87-ae51-f9fd6a076fd1
-</h1>
-
-https://github.com/KumarAbhay98/KumarAbhay98/assets/92244303/4060f663-a2ae-4187-be88-de0dc303012d
-
 
 <h1 align="center">Hola! 👋, I'm Abhay</h1>
 <h3 align="center">A passionate frontend developer diving into backend with django.</h3>
