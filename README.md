@@ -1,75 +1,29 @@
-<div align="center">
-<img width="100%" height = "400px" src="https://www.bing.com/th/id/OGC.ad63cf74bc87f120c46f32e10d6e0627?pid=1.7&rurl=https%3a%2f%2fhips.hearstapps.com%2fpop.h-cdn.co%2fassets%2f17%2f44%2f640x320%2flandscape-1509740451-trippy.gif%3fresize%3d1200%3a*&ehk=0aIV7UM%2bCzaQJe7yJybVlINPMKoraHuA%2bwGa0fEnIs8%3d" alt="cover" />
-</div>
-<h3 align="center">"The course of modern learning leads from humanism via nationalism to bestiality"</h3>
+<h1 align="center" style="width:100;%">
+ <img src="#" />
+</h1>
+<h1 align="center">Hola! 👋, I'm Abhay</h1>
+<h3 align="center">A passionate frontend developer diving into backend with django.</h3>
+<h3 align="center">I'm a pursuing btech in Information Technology from Harcourt Butlert Technical University , Kanpur batch'24</h3>
 
-<h1>NAMASTE <img src ="https://www.bing.com/th/id/OGC.8236d454cdd5a548556aafa6176f938c?pid=1.7&rurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2f8236d454cdd5a548556aafa6176f938c%2ftenor.gif%3fitemid%3d16705093&ehk=nEKsIch%2bZFFqzYj9mndw5JLpPHA7JhuOQWwt1JrUpIE%3d" width = 50px height='50px'> << Developers/ >>!  </h1>
-<p align='center'>
-
-</p>
-<div size='20px'> Well! My name is Abhay Kumar. Thank You for taking the time to visit my GitHub Profile :smile: 
-</div>
-
-<h2> About Me <img src = "https://www.bing.com/th/id/OGC.18867b0c57bb4aadb3b2f5eaad8e4ff3?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f9a%2fe0%2f0f%2f9ae00fe40fa78aac4bf8dea4e8896189.gif&ehk=0YFluzF4TqcOf%2bisQjb5RKwDxShjNgg0bblyJyZRDUQ%3d" width = 80px height='50px'></h2>
+# 💫 About Me:
+🔭 I’m currently working on being a full-stack developer.<br>👯 I’m looking to collaborate on projects with react, JavaScript and django<br>🌱 I’m currently learning Django.
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/skygit) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sky.git) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@skygit) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=skygitIG&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=skygitIG&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=skygitIG&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h2>Hey! 👋</h2>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=skygitIG&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-I'm Abhay Kumar! 
-- <i>Currently:</i> Btech. IT Student at Harcourt Butler technical University ,kanpur. 
-- <i>Currently:</i> Moving towards the concepts of Back-end.
-
-<h2>💻 I'm Currently workng on</h2>
-
-- My Own website handling issues related to student's life.
-- Software Engineering
-- Deep diving into Front-end development, UI/UX designs and looking forward to learn complete webdevelopment technologies and tools.
-- Applying my skills on real world projects.
-
-<hr>
-- 👯 I’m looking to collaborate on Projects, Tech Articles.
-
-- 💬 Talk to me about Front-end development, UI/UX, Dbms. 
-
-
-
-<img width="55%" align="right" alt="Github" src="https://www.bing.com/th/id/OGC.6b9cadb5ed2c5bed40b91634eed9231a?pid=1.7&rurl=https%3a%2f%2fblog-c7ff.kxcdn.com%2fblog%2fwp-content%2fuploads%2f2019%2f05%2fIronMan.gif&ehk=4vynVFcJP0I6n8vKEHFWekqVGLxB%2f9uuNk%2bVIhDkLYY%3d" />
-
-
-
-
-
-
-
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/Dhruv-0001?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/Dhruv-0001?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Dhruv-0001?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/Dhruv-0001?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/Dhruv-0001?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Dhruv-0001?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Dhruv-0001?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'linkedin.com/in/abhay-kumar-6586b220a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://github.com/KumarAbhay98'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-
-
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
-
-
-<br>
-<footer align='center'>HAPPY CODING.</a> </footer>
-
-<!---
-KumarAbhay98/KumarAbhay98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=skygitIG&icon=0&color=0)](https://visitcount.itsvg.in)
