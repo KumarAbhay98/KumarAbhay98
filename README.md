@@ -1,5 +1,5 @@
 <h1 align="center" style="width:100;%">
- <img src="https://ibb.co/6Rbp5qG" />
+ <img src="https://i.ibb.co/jvGxFjq/Screenshot-2023-08-02-134306.png" alt="image"/>
 </h1>
 <h1 align="center">Hola! 👋, I'm Abhay</h1>
 <h3 align="center">A passionate frontend developer diving into backend with django.</h3>
@@ -25,5 +25,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://visitcount.itsvg.in/api?id=KumarAbhay98&icon=0&color=0)](https://visitcount.itsvg.in)
+
