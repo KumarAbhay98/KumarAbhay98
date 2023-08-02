@@ -1,5 +1,5 @@
 <h1 align="center" style="width:100;%">
- <img src="https://imagetolink.com/ib/htSYHhkgTh" />
+ <img src="https://ibb.co/6Rbp5qG" />
 </h1>
 <h1 align="center">Hola! 👋, I'm Abhay</h1>
 <h3 align="center">A passionate frontend developer diving into backend with django.</h3>
