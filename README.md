@@ -15,7 +15,7 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%23007ACC.svg?style=flat&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%230769AD.svg?style=flat&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%230769AD.svg?style=flat&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/wordpress-%230769AD.svg?style=flat&logo=wordpress&logoColor=white) ![Django](https://img.shields.io/badge/django-%230769AD.svg?style=flat&logo=django&logoColor=white)   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-6DA55F?style=flat&logo=firebase&logoColor=white) ![Python](https://img.shields.io/badge/python-%230769AD.svg?style=flat&logo=python&logoColor=white) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=skygitIG&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=KumarAbhay98&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skygitIG&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skygitIG&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
