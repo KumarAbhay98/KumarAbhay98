@@ -1,9 +1,9 @@
 
 https://github.com/KumarAbhay98/KumarAbhay98/assets/92244303/154b4e11-3f78-4f87-ae51-f9fd6a076fd1
 
-<h3>Hola! 👋, I'm Abhay</h3>
-<h3>A Passionate WebDeveloper and a problem solver.</h3>
-<h3>I'm a pursuing btech in Information Technology from Harcourt Butlert Technical University , Kanpur batch'24</h3>
+<p>Hola! 👋, I'm Abhay</p>
+<p>A Passionate WebDeveloper and a problem solver.</p>
+<p>I'm a pursuing btech in Information Technology from Harcourt Butlert Technical University , Kanpur batch'24</p>
 
 # 💫 About Me:
 👯 I’m looking to collaborate on projects with MERN, JavaScript and django<br>
