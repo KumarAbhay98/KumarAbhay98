@@ -1,13 +1,14 @@
 
 https://github.com/KumarAbhay98/KumarAbhay98/assets/92244303/154b4e11-3f78-4f87-ae51-f9fd6a076fd1
 
-<p>Hola! 👋, I'm Abhay</p>
-<p>A Passionate WebDeveloper and a problem solver.</p>
-<p>I'm a pursuing btech in Information Technology from Harcourt Butlert Technical University , Kanpur batch'24</p>
+<ul>
+  <li>Hola! 👋, I'm Abhay</li>
+  <li>A Passionate WebDeveloper and a problem solver.</li>
+  <li>I'm a pursuing btech in Information Technology from Harcourt Butlert Technical University , Kanpur batch'24</li>
+</ul>
 
 # 💫 About Me:
 👯 I’m looking to collaborate on projects with MERN, JavaScript and django<br>
-
 
 ## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-kumar-6586b220a/)  [![Dev](https://img.shields.io/badge/Dev-%231877F2.svg?logo=Dev&logoColor=white)](https://dev.to/kumarabhay98)  [![Portfolio](https://img.shields.io/badge/Portfolio-%231877F2.svg?logo=Portfolio&logoColor=white)](https://kumarabhay-portfolio.netlify.app/)  [![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KumarAbhay98)     [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhay.sahil/)
