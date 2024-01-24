@@ -3,9 +3,9 @@
 
 <ul>
   <li>Hola! 👋, I'm Abhay</li>
-  <li>Tech and Business ethusiast.</li>
+  <li>Tech Enthusiast.</li>
   <li>I'm a pursuing btech in Information Technology from Harcourt Butlert Technical University , Kanpur batch'24</li>
-  <li>I have explore web-development</li>
+  <li>Open for discussion on Web-development technologies.</li>
   <li>Keen interested in business and data analysis.</li>
 </ul>
 
