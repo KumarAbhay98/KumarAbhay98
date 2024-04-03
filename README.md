@@ -7,8 +7,6 @@
 </ul>
 
 
-I'm a tech enthusiast and an avid learner, always hungry for knowledge. My curiosity knows no bounds, especially when it comes to startups! Passionate about business and tech, I'm constantly seeking insights to make informed decisions.
-
 ## Find me on:
 !Linkedin
 !Dev
