@@ -2,11 +2,20 @@
 
 
 <ul>
-  <li>Hey! 👋, I'm Abhay</li>
-  <li>Tech Enthusiast.</li>
-  <li>Open for discussion on Web-development technologies.</li>
-  <li>Keen interested in business and data analysis.</li>
+  <li>Hey! 👋 I'm Abhay.</li>
+<li>Tech enthusiast and avid learner, always hungry for knowledge.</li>
+<li>I've got a curious mind, especially about startups!</li>
+<li>Passionate about business and data analysis, always eager to uncover insights.</li>
+
 </ul>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/dhruvtyagi15/" target="_blank"> Dhruv Tyagi </a></h1>
+
+- 🌱 Learning Never Stops 🚀
+- 👋 Ask me about **WebDevelopment, Data Analytics**
+- 🎯 Looking to contribute to the Open Source community to foster a better learning environment.
+- 🌱 Eager to collaborate and contribute on exciting projects.
+- 👉  Know more about me  : **<a href="https://dhruv-portfolio-mu.vercel.app/" target="_blank">Portfolio</a>**
+
 
 # 💫 About Me:
 👯 Looking forward to collaborate with webd enthusiasts and data analytics<br>
