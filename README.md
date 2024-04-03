@@ -6,6 +6,28 @@
 <li>👉Deeply passionate about business and tech, always eager to uncover insights and make informed decisions.</li>
 </ul>
 
+# Hey there! 👋 I'm Abhay.
+
+I'm a tech enthusiast and an avid learner, always hungry for knowledge. My curiosity knows no bounds, especially when it comes to startups! Passionate about business and tech, I'm constantly seeking insights to make informed decisions.
+
+## Find me on:
+!Linkedin
+!Dev
+!Portfolio
+!Twitter
+!Instagram
+
+## 💻 Tech Stack:
+### Web Development
+- **Front-End Development**
+  - !JavaScript
+  - !React
+  - !TailwindCSS
+  - !Bootstrap
+
+Let's build something amazing together! 🚀
+
+
 ## 🌐 Find me on:
 [![Linkedin](https://img.shields.io/badge/Linkedin-%2300B3E6.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-kumar-6586b220a/) <br>
 [![Dev](https://img.shields.io/badge/Dev-%2300B3E6.svg?logo=Dev&logoColor=white)](https://dev.to/kumarabhay98)  
