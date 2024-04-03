@@ -1,3 +1,12 @@
+```css
+/* CSS for simulating dark background */
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+
+
 <div style="background-color: #000;">
 <ul>
  <li>Hey there! 👋 I'm Abhay.</li>
