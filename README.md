@@ -1,15 +1,6 @@
-```css
-/* CSS for simulating dark background */
-body {
-    background-color: #000;
-    color: #fff;
-}
-
-
-
 <div style="background-color: #000;">
 <ul>
- <li>Hey there! 👋 I'm Abhay.</li>
+ <li style="color:red">Hey there! 👋 I'm Abhay.</li>
 <li>🌱A tech enthusiast and an avid learner, always hungry for knowledge.</li>
 <li>🎯I've got a curious mind, especially when it comes to startups!</li>
 <li>👉Deeply passionate about business and tech, always eager to uncover insights and make informed decisions.</li>
