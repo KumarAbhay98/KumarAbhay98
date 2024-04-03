@@ -9,11 +9,6 @@
 </ul>
 
 
--  Learning Never Stops 🚀
-- 👋 Ask me about **WebDevelopment, Data Analytics**
--  Looking to contribute to the Open Source community to foster a better learning environment.
--  Eager to collaborate and contribute on exciting projects.
--   Know more about me  : **<a href="https://dhruv-portfolio-mu.vercel.app/" target="_blank">Portfolio</a>**
 
 
 # 💫 About Me:
