@@ -3,17 +3,17 @@
 
 <ul>
  <li>Hey there! 👋 I'm Abhay.</li>
-<li>A tech enthusiast and an avid learner, always hungry for knowledge.</li>
-<li>I've got a curious mind, especially when it comes to startups!</li>
-<li>Deeply passionate about business and tech, always eager to uncover insights and make informed decisions.</li>
+<li>🌱A tech enthusiast and an avid learner, always hungry for knowledge.</li>
+<li>🎯I've got a curious mind, especially when it comes to startups!</li>
+<li>👉Deeply passionate about business and tech, always eager to uncover insights and make informed decisions.</li>
 </ul>
 
 
-- 🌱 Learning Never Stops 🚀
+-  Learning Never Stops 🚀
 - 👋 Ask me about **WebDevelopment, Data Analytics**
-- 🎯 Looking to contribute to the Open Source community to foster a better learning environment.
-- 🌱 Eager to collaborate and contribute on exciting projects.
-- 👉  Know more about me  : **<a href="https://dhruv-portfolio-mu.vercel.app/" target="_blank">Portfolio</a>**
+-  Looking to contribute to the Open Source community to foster a better learning environment.
+-  Eager to collaborate and contribute on exciting projects.
+-   Know more about me  : **<a href="https://dhruv-portfolio-mu.vercel.app/" target="_blank">Portfolio</a>**
 
 
 # 💫 About Me:
