@@ -2,15 +2,14 @@
 
 
 <ul>
-  <li>Hola! 👋, I'm Abhay</li>
+  <li>Hey! 👋, I'm Abhay</li>
   <li>Tech Enthusiast.</li>
-  <li>I'm a pursuing btech in Information Technology from Harcourt Butlert Technical University , Kanpur batch'24</li>
   <li>Open for discussion on Web-development technologies.</li>
   <li>Keen interested in business and data analysis.</li>
 </ul>
 
 # 💫 About Me:
-👯 I’m looking to collaborate on projects with Javascript, Business knowledge, Data Analysis.<br>
+👯 Looking forward to collaborate with webd enthusiasts and data analytics<br>
 
 ## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-kumar-6586b220a/)  [![Dev](https://img.shields.io/badge/Dev-%231877F2.svg?logo=Dev&logoColor=white)](https://dev.to/kumarabhay98)  [![Portfolio](https://img.shields.io/badge/Portfolio-%231877F2.svg?logo=Portfolio&logoColor=white)](https://abhaykumarportfolio.netlify.app/)  [![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KumarAbhay98)     [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhay.sahil/)
