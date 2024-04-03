@@ -31,37 +31,19 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=%23339933)
 ![Firebase](https://img.shields.io/badge/Firebase-%2320232a.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCA28)
 
+### Content Management Systems (CMS)
+![WordPress](https://img.shields.io/badge/WordPress-%2300B3E6.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
-Let's build something amazing together! 🚀
+### Hosting and Deployment
+![Vercel](https://img.shields.io/badge/Vercel-%2300B3E6.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7)
+![Cyclic](https://img.shields.io/badge/Cyclic-%2300B3E6.svg?style=for-the-badge&logo=cyclic&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-%2300B3E6.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-
-## 🌐 Find me on:
 
 
 # 💻 Tech Stack:
-## Web Development
-- **Front-End Development**
-  - ![JavaScript](https://img.shields.io/badge/javascript-%2300B3E6.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-  - ![React](https://img.shields.io/badge/react-%2300B3E6.svg?style=flat&logo=react&logoColor=white)
-  - ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2300B3E6.svg?style=flat&logo=tailwindcss&logoColor=white)
-  - ![Bootstrap](https://img.shields.io/badge/bootstrap-%2300B3E6.svg?style=flat&logo=bootstrap&logoColor=white)
 
-- **Back-End Development**
-  - ![Node.js](https://img.shields.io/badge/Nodejs-%2300B3E6.svg?style=flat&logo=Nodejst&logoColor=%23F7DF1E)
-  - ![Express](https://img.shields.io/badge/express-%2300B3E6.svg?style=flat&logo=express&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-%2300B3E6.svg?style=flat&logo=MongoDBt&logoColor=%23F7DF1E)
 
-- **Content Management Systems (CMS)**
-  - ![WordPress](https://img.shields.io/badge/wordpress-%2300B3E6.svg?style=flat&logo=wordpress&logoColor=white)
-
-- **Hosting and Deployment**
-  - ![Vercel](https://img.shields.io/badge/vercel-%2300B3E6.svg?style=flat&logo=vercel&logoColor=#00C7B7)
-  - ![Cyclic](https://img.shields.io/badge/cyclic-%2300B3E6.svg?style=flat&logo=cyclic&logoColor=#00C7B7)
-  - ![Netlify](https://img.shields.io/badge/netlify-%2300B3E6.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-
-- **Frameworks**
-  - ![Python](https://img.shields.io/badge/python-%2300B3E6.svg?style=flat&logo=python&logoColor=white)
-  - ![Django](https://img.shields.io/badge/django-%2300B3E6.svg?style=flat&logo=django&logoColor=white)
 
 ## Business & Data Analysis
 - **Data Analysis Tools**
