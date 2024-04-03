@@ -1,4 +1,4 @@
-<div class="bg-dark">
+<div style="background-color: #000;">
 <ul>
  <li>Hey there! 👋 I'm Abhay.</li>
 <li>🌱A tech enthusiast and an avid learner, always hungry for knowledge.</li>
