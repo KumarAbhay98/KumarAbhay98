@@ -6,7 +6,7 @@
 </ul>
 
 ## 🌐 Find me on:
-[![Linkedin](https://img.shields.io/badge/Linkedin-%2300B3E6.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-kumar-6586b220a/) 
+[![Linkedin](https://img.shields.io/badge/Linkedin-%2300B3E6.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-kumar-6586b220a/) <br>
 [![Dev](https://img.shields.io/badge/Dev-%2300B3E6.svg?logo=Dev&logoColor=white)](https://dev.to/kumarabhay98)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300B3E6.svg?logo=Portfolio&logoColor=white)](https://abhaykumarportfolio.netlify.app/)  
 [![Twitter](https://img.shields.io/badge/Twitter-%2300B3E6.svg?logo=Twitter&logoColor=white)](https://twitter.com/KumarAbhay98)     
