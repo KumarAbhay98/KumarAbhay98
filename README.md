@@ -1,3 +1,9 @@
+<style>
+  .black-teal {
+    background-color: #000; /* Black background */
+    color: #39CCCC; /* Teal text */
+  }
+</style>
 
 
 
