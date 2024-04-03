@@ -3,9 +3,9 @@
 
 <ul>
  <li>Hey there! 👋 I'm Abhay.</li>
-<li>I'm a tech enthusiast and an avid learner, always hungry for knowledge.</li>
+<li>A tech enthusiast and an avid learner, always hungry for knowledge.</li>
 <li>I've got a curious mind, especially when it comes to startups!</li>
-<li>I'm deeply passionate about business and data analysis, always eager to uncover insights and make informed decisions.</li>
+<li>Deeply passionate about business and tech, always eager to uncover insights and make informed decisions.</li>
 </ul>
 
 
