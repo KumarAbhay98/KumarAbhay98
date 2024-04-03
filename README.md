@@ -15,13 +15,21 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%2300B3E6.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhay.sahil/)
 
 
-## 💻 Tech Stack:
+## 💻 My Skills:
 ### Web Development
 - **Front-End Development**
-  - !JavaScript
-  - !React
-  - !TailwindCSS
-  - !Bootstrap
+- React
+- JavaScript
+- TailwindCSS
+- Bootstrap
+- Scss
+
+  - **Back-End Development**
+- Express
+- MongoDB
+- Nodejs
+- Firebase
+
 
 Let's build something amazing together! 🚀
 
