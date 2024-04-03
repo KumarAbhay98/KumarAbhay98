@@ -1,3 +1,4 @@
+<div class="bg-dark">
 <ul>
  <li>Hey there! 👋 I'm Abhay.</li>
 <li>🌱A tech enthusiast and an avid learner, always hungry for knowledge.</li>
@@ -71,5 +72,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
+</div>
 
