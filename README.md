@@ -17,18 +17,19 @@
 
 ## 💻 My Skills:
 ### Web Development
-- **Front-End Development**
-- React
-- JavaScript
-- TailwindCSS
-- Bootstrap
-- Scss
 
-  - **Back-End Development**
-- Express
-- MongoDB
-- Nodejs
-- Firebase
+#### Front-End Development
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2367B3E4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)
+![Sass](https://img.shields.io/badge/Sass-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699)
+
+#### Back-End Development
+![Express](https://img.shields.io/badge/Express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%23000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%234DB33D)
+![Node.js](https://img.shields.io/badge/Node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=%23339933)
+![Firebase](https://img.shields.io/badge/Firebase-%2320232a.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCA28)
 
 
 Let's build something amazing together! 🚀
