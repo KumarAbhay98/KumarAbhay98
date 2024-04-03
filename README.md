@@ -32,12 +32,12 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%2320232a.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCA28)
 
 ### Content Management Systems (CMS)
-![WordPress](https://img.shields.io/badge/WordPress-%2300B3E6.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23282C34.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Hosting and Deployment
-![Vercel](https://img.shields.io/badge/Vercel-%2300B3E6.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7)
-![Cyclic](https://img.shields.io/badge/Cyclic-%2300B3E6.svg?style=for-the-badge&logo=cyclic&logoColor=#00C7B7)
-![Netlify](https://img.shields.io/badge/Netlify-%2300B3E6.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-%23282C34.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7)
+![Cyclic](https://img.shields.io/badge/Cyclic-%23282C34.svg?style=for-the-badge&logo=cyclic&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-%23282C34.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
 
