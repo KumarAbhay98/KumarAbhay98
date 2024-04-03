@@ -2,10 +2,11 @@
 
 
 <ul>
-  <li>Hey! 👋 I'm Abhay.</li>
-<li>Tech enthusiast and avid learner, always hungry for knowledge.</li>
-<li>I've got a curious mind, especially about startups!</li>
-<li>Passionate about business and data analysis, always eager to uncover insights.</li>
+ <li>Hey there! 👋 I'm Abhay.</li>
+<li>I'm a tech enthusiast and an avid learner, always hungry for knowledge.</li>
+<li>I've got a curious mind, especially when it comes to startups!</li>
+<li>I'm deeply passionate about business and data analysis, always eager to uncover insights and make informed decisions.</li>
+
 
 </ul>
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/dhruvtyagi15/" target="_blank"> Dhruv Tyagi </a></h1>
