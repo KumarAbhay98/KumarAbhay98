@@ -15,8 +15,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%2300B3E6.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhay.sahil/)
 
 
-## 💻 My Skills:
-### Web Development
+# 💻 Tech Stack:
+## Web Development
 
 #### Front-End Development
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,22 +40,13 @@
 ![Netlify](https://img.shields.io/badge/Netlify-%23282C34.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
-
-# 💻 Tech Stack:
-
-
-
 ## Business & Data Analysis
-- **Data Analysis Tools**
-  - ![Excel](https://img.shields.io/badge/excel-%2300B3E6.svg?style=flat)
-  - ![SQL](https://img.shields.io/badge/sql-%2300B3E6.svg?style=flat)
-  - ![PowerBI](https://img.shields.io/badge/powerbi-%2300B3E6.svg?style=flat)
 
-- **Business Analysis**
-  - Requirement Analysis
-  - Gap Analysis
+### Data Analysis Tools
+![Excel](https://img.shields.io/badge/Excel-%23282C34.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23282C34.svg?style=for-the-badge&logo=sql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-%23282C34.svg?style=for-the-badge&logo=power-bi&logoColor=white)
 
-- **Software Development Life Cycle (SDLC) Knowledge**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KumarAbhay98&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
