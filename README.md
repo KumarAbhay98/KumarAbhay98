@@ -1,12 +1,11 @@
-<div style="background-color: #000;">
+
+# Hey there! 👋 I'm Abhay.
 <ul>
- <li style="color:red">Hey there! 👋 I'm Abhay.</li>
 <li>🌱A tech enthusiast and an avid learner, always hungry for knowledge.</li>
 <li>🎯I've got a curious mind, especially when it comes to startups!</li>
 <li>👉Deeply passionate about business and tech, always eager to uncover insights and make informed decisions.</li>
 </ul>
 
-# Hey there! 👋 I'm Abhay.
 
 I'm a tech enthusiast and an avid learner, always hungry for knowledge. My curiosity knows no bounds, especially when it comes to startups! Passionate about business and tech, I'm constantly seeking insights to make informed decisions.
 
